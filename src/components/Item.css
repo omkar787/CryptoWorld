@@ -1,0 +1,11 @@
+.item{
+    width: 40vw;
+    height: 20vh;
+    background-color: rgb(228, 194, 59);
+  
+}
+
+.image{
+    display: flex;
+    justify-items: center;
+}
